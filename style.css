@@ -1,0 +1,29 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+    body{
+   
+    background-color:red;
+    }
+    h2,p{
+        text-align: center;
+        color: white;
+        font-weight: bold;
+    }
+    .form-control{
+        width: 100%;
+    }
+    .area{
+        margin: 10px;
+    }
+
+    .form-label ,
+    .form-check-label{
+    color: white;
+    font-weight: bold;
+}
